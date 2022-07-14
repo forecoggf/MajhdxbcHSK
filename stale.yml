@@ -26,11 +26,6 @@ unmarkComment: >
   Okay, it looks like this issue or feature request might still be important. We'll re-open
   it for now. Thank you for letting us know!
 
-# Comment to post when marking an issue as stale. Set to `false` to disable
-markComment: >
-  Is this still relevant? We haven't heard from anyone in a bit. If so,
-  please comment with any updates or additional detail.
-
   This issue has been automatically marked as stale because it has not had
   recent activity. It will be closed if no further activity occurs. Don't
   take it personally, we just need to keep a handle on things. Thank you
